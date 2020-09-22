@@ -10,6 +10,13 @@ body {
   min-height     : 100vh;
 }
 
+button {
+  background-color: #000080;
+  color           : #fff;
+  padding         : 1rem;
+  border-radius   : 5px;
+  border          : none;
+}
 
 #container {
   position: fixed;
@@ -22,5 +29,5 @@ body {
   border-radius   : 5px;
   color           : #fff;
   padding         : 2rem;
-
+  margin          : 1rem;
 }
